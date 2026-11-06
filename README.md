@@ -1,4 +1,4 @@
-# steps;
+## steps;
 1. install `FEMM 4.2` - nothing else
 2. install pyfemm - `pip install pyfemm`
 3. run this - `pip install --force-reinstall pywin32` 
